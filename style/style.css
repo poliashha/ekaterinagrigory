@@ -271,6 +271,11 @@ body {
   text-align: center;
 }
 
+.input:focus{
+  outline: none;
+  border: 2px solid var(--brown);
+}
+
 ::placeholder{
   text-align: center;
   color: black;
@@ -281,14 +286,14 @@ body {
 }
 
 .button{
-  padding: 10px 90px;
+  padding: 10px 0;
   border:none;
   border-radius: 7px;
   background-color: var(--brown);
   color: white;
   letter-spacing: 0.23em;
   font-family: var(--main-font);
-  max-width: 257px;
+  max-width: 255px;
   width: 100%;
 }
 
