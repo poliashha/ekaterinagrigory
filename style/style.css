@@ -323,3 +323,8 @@ body {
 }
 
 
+@media (width>412px){
+  .form-box{
+    left:12px;
+  }
+}
