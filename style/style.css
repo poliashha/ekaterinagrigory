@@ -253,7 +253,7 @@ body {
 .form-box {
   position: absolute;
   top: 30px;
-  left: 22px;
+  left: 24px;
   padding: 0 50px;
   display: flex;
   flex-direction: column;
