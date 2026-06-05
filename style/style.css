@@ -257,7 +257,7 @@ body {
 .form-box {
   position: absolute;
   top: 26px;
-  right: 12px;
+  right: 7px;
   z-index: 3;
   
   display: flex;
