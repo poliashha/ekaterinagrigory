@@ -322,3 +322,16 @@ body {
     left: 25px;
   }
 }
+
+@media (width<404px){
+  .form-box{
+    left: 20px;
+  }
+}
+
+@media (width<390px){
+  .form-box{
+    left: 12px;
+  }
+}
+
